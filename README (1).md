@@ -6,7 +6,8 @@ A hardware-implemented interactive grid game built in Verilog and deployed on th
 
 ## 📸 Demo
 
-> *Connect the Basys3 to a VGA monitor and power on — the grid appears immediately.*
+<img width="692" height="510" alt="image" src="https://github.com/user-attachments/assets/fae9e893-e92a-461d-9cf2-f8f116856e46" />
+
 
 ---
 
